@@ -5,4 +5,7 @@ if(password!='pleaseletmein'){
     location.reload()
 }
 
-//   Learning  wried  behaviour of git
+// learnig  to hack 
+
+
+
